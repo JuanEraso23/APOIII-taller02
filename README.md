@@ -5,8 +5,11 @@ Curso de Algoritmos y Programación III.
 ## Descripción
 Taller 02.
 
-Se requiere a crear un programa en Java que simule un organizador de tareas diarias para estudiantes. 
-La idea es utilizar conceptos de Programación Orientada a Objetos (POO), ciclos, condicionales, y manejo de contenedores para almacenar y gestionar tareas.
+Se requiere la realización de un programa simple para el manejo simple de gestión de un inventario para una tienda de barrio. 
+Se requiere manejar el nombre del producto, el precio y la cantidad, para realizar el ejercicio se requiere de cuatro requerimientos funcionales, 
+el sistema debe permitir agregar un producto, permitir obtener el inventario de productos, organizar el producto teniendo en cuenta la cantidad de menor a mayor 
+y eliminar un producto. Para realizar el ejercicio es necesario utilizar conceptos de Programación Orientada a Objetos (POO), ciclos, condicionales 
+y manejo de contenedoras variables para el manejo de una persistencia simple basada en memoria.
 
 ### Programas
 
