@@ -38,7 +38,7 @@ y manejo de contenedoras variables para el manejo de una persistencia simple bas
 ---
 **Apache Netbeans**
 
-![nb_logo](https://github.com/JuanEraso23/APOIII/assets/144852394/c643765f-6565-4ddd-9f9b-18ffcd175577)
+![1628159](https://github.com/JuanEraso23/APOIII-taller02/assets/144852394/ce6bb0bb-1766-44cf-ae6e-a65740a4b34e)
 
 ### Instalación
 
@@ -48,17 +48,17 @@ y manejo de contenedoras variables para el manejo de una persistencia simple bas
 
 2. Presiona la opción "Download".
 
-![Captura de pantalla_20240212_082631](https://github.com/JuanEraso23/APOIII/assets/144852394/cee67e70-b518-42d8-aee3-f2945c215f44)
+![Captura de pantalla_20240330_092345](https://github.com/JuanEraso23/APOIII-taller02/assets/144852394/ee22554f-d735-4a0e-b295-b01e6928f890)
 
 3. Selecciona una de las opciones en "Installers And Packages".
    
    **(En mi caso fue "Apache-NetBeans-20r1-bin-windows-x64.exe (SHA-512, PGP ASC)")**
    
-![Captura de pantalla_20240212_083031](https://github.com/JuanEraso23/APOIII/assets/144852394/6442027d-04c9-49fd-9706-e5bbc9d23f55)
+![Captura de pantalla_20240330_092403](https://github.com/JuanEraso23/APOIII-taller02/assets/144852394/b59fabcf-c8fc-45d0-a5dd-5a434d8983ce)
 
 4. Selecciona el primer link.
 
-![Captura de pantalla_20240212_083241](https://github.com/JuanEraso23/APOIII/assets/144852394/af0ae85d-bbc8-45f5-8a91-e272141244a4)
+![Captura de pantalla_20240330_092442](https://github.com/JuanEraso23/APOIII-taller02/assets/144852394/af93c500-e111-442f-8868-0d4d5d0ea2bd)
 
 ## Despliegue (Deployment)
 
